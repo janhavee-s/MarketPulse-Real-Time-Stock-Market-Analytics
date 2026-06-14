@@ -176,6 +176,9 @@ MarketPulse/
 
 * Python 3.9+
 * pip
+* matplotlib==3.11.0
+* pandas==3.0.3
+* yfinance==1.0
 
 ### Clone the Repository
 
